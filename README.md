@@ -12,10 +12,12 @@ I am a Software Engineer by profession. I like exploring and trying out new tech
 ![GitHub followers](https://img.shields.io/github/followers/yharshil?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://bit.ly/harshilyadav)](https://bit.ly/harshilyadav)
 ![](https://visitor-badge.glitch.me/badge?page_id=yharshil.yharshil)
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
   
-### More About Me:
--   💻  Worked as a Software Engineer at **[Samsung Research](https://research.samsung.com/)**
--   🔭  I have experience working on Java, C++, Python, Backend and Android Framework.
+### More About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+-   💻  Worked as a Software Engineer at **[Samsung Research](https://research.samsung.com/)** 
+-   🔭  I have experience working on Java, C++, Python, Backend and Android Framework. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 -   🌱  I’m currently learning React Native 
 -   🤔  I’m open for new and exciting opportunities
 -   💬  Always up for a discussion!
